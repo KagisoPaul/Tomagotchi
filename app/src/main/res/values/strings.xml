@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Virtual</string>
+    <string name="reset">Reset</string>
+    <string name="back">Back</string>
+    <string name="clean">Clean</string>
+    <string name="play">Play</string>
+    <string name="eat">Eat</string>
+    <string name="todo">TODO</string>
+</resources>

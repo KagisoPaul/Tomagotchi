@@ -1,4 +1,4 @@
-# App Report: Virtual Pet#
+# App Report: Virtual Pet
 The Virtual Pet app is meticulously designed to replicate the joy and responsibility of owning a virtual pet. Within this delightful digital
 world, users can engage with their virtual companions by feeding them, playing together, and ensuring their cleanliness. The app comprises 
 two primary pages: the home page, where users manage their pet’s overall well-being, and the virtual pet page, where the magic truly unfolds.

@@ -49,3 +49,7 @@ Available at: https://www.youtube.com/watch?v=9_Tf3NSD2-M [Accessed 18 April 202
 
 GeeksforGreeks. 2022. How to Use Glide Image Loader Library in Android Apps? 22 September 2022. [Online]. 
 Available at: https://www.geeksforgeeks.org/image-loading-caching-library-android-set-2/ [Accessed 18 April 2024]. 
+
+*How To Write a USEFUL README On Github.* 2022. YouTube video, added by Learn Fast Make Things. [Online]. Available at: https://www.youtube.com/watch?v=E6NO0rgFub4 [Accessed 12 February 2024]. 
+
+*How to upload a project / folder to GitHub.* 2022. YouTube video, added by Abstract programmer. [Online]. Available at: https://www.youtube.com/watch?v=p8bZBvcFPuk [Accessed 13 February 2024].

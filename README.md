@@ -44,7 +44,7 @@ https://youtu.be/8Am0zaQCHDw
 
 ## References
 
-Displaying Images Using Glide Library - Mastering Android Course #38. 2023. YouTube video, added by Master Coding. [Online]. 
+*Displaying Images Using Glide Library - Mastering Android Course #38*. 2023. YouTube video, added by Master Coding. [Online]. 
 Available at: https://www.youtube.com/watch?v=9_Tf3NSD2-M [Accessed 18 April 2024]. 
 
 GeeksforGreeks. 2022. How to Use Glide Image Loader Library in Android Apps? 22 September 2022. [Online]. 

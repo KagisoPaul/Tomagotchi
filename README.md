@@ -33,11 +33,14 @@ levels which are determined by activity the pet is tasked to do.
 The app utilizes Glide, a popular image loading and caching library for Android, to efficiently load and display images of the pet. This 
 ensures smooth performance and a visually appealing experience for users. 
 
-
-In conclusion, the Virtual Pet app offers a simple yet enjoyable experience for users interested in virtual pet ownership. Its intuitive 
+The Virtual Pet app offers a simple yet enjoyable experience for users interested in virtual pet ownership. Its intuitive 
 design and responsive UI make it accessible to a wide audience. However, there is room for improvement in terms of enhancing interaction, 
 customization, and adding more features to enrich the user experience. With further development and refinement, the Virtual Pet app has the 
 potential to become a beloved companion for users seeking virtual pet companionship. 
+
+## YouTube video:  
+
+https://youtu.be/8Am0zaQCHDw 
 
 ## References
 
